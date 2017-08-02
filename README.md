@@ -5,4 +5,4 @@ Intended features are:
 - [ ] Facts will be taken from the net online.
 - [ ] Inbuilt navigation bar
 - [ ] Reduce app size
-###Please email intended features to bloggervis@gmail.com
+### Please email intended features to bloggervis@gmail.com
